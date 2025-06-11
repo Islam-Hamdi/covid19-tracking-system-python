@@ -2,7 +2,7 @@
 
 > **CMPS151 – Programming Concepts | Qatar University**
 
-This project was developed as part of the CMPS151 course at Qatar University. It showcases core Python programming concepts including file handling, modular design, data filtering, and simple data visualization—all wrapped in a functional, console-based COVID-19 tracker.
+This project was created during my **first semester at Qatar University (Spring 2021)** as part of the **CMPS151 Programming Concepts** course. It showcases core Python programming concepts including file handling, modular design, data filtering, and simple data visualization—all wrapped in a functional, console-based COVID-19 tracker.
 
 ---
 
